@@ -4,7 +4,6 @@
 
 *For the purposes of this case study I focused on Intuit, Inc., specifically its tax preparation product and services.*
 #
-![alt text](https://raw.githubusercontent.com/LynetteCary/Intuit-Case_Study/master/Knowledge.jpg)
 
 ## **Origin Story of Intuit, Inc.**
 Intuit, Inc. is a financial technology company whose mission is to power prosperity in communities around the world.  Intuit utilizes its people and resources to create economic opportunities and financial literacy for individuals, small businesses, and self-employed individuals.
